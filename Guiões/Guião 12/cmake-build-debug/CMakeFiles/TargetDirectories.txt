@@ -1,0 +1,3 @@
+/home/tania/Desktop/3.2Semestre/CG/Guião 12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tania/Desktop/3.2Semestre/CG/Guião 12/cmake-build-debug/CMakeFiles/class12.dir
+/home/tania/Desktop/3.2Semestre/CG/Guião 12/cmake-build-debug/CMakeFiles/edit_cache.dir
