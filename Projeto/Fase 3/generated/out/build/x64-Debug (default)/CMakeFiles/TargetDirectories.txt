@@ -1,0 +1,3 @@
+C:/Users/comta/OneDrive/Ambiente de Trabalho/Uni $study/3 ano/2 Semestre/CG/trabalho/Fase 3/generated/out/build/x64-Debug (default)/CMakeFiles/generated.dir
+C:/Users/comta/OneDrive/Ambiente de Trabalho/Uni $study/3 ano/2 Semestre/CG/trabalho/Fase 3/generated/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/comta/OneDrive/Ambiente de Trabalho/Uni $study/3 ano/2 Semestre/CG/trabalho/Fase 3/generated/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

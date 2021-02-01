@@ -1,0 +1,3 @@
+/home/margarida/Desktop/CG/Grupo31/generated/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/margarida/Desktop/CG/Grupo31/generated/cmake-build-debug/CMakeFiles/generated.dir
+/home/margarida/Desktop/CG/Grupo31/generated/cmake-build-debug/CMakeFiles/edit_cache.dir

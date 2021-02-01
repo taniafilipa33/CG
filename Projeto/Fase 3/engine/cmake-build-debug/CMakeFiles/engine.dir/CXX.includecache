@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/main.cpp
+cmath
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+tinyxml2.cpp
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/tinyxml2.cpp
+tinyxml2.h
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/tinyxml2.h
+stdio.h
+-
+IL/il.h
+-
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+algorithm
+-
+
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/tinyxml2.cpp
+tinyxml2.h
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+/home/tania/Desktop/3.2Semestre/CG/Fase 3/engine/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
